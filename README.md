@@ -38,7 +38,7 @@ SQLite (Base de données par défaut)
 🚀 Installation et Lancement
 1. Cloner le projet
 Bash
-git clone https://github.com/votre-username/DashboardEcom.git
+git clone https://github.com/Ibrxhxm-Bxddxne/DashboardEcom.git
 cd DashboardEcom
 2. Configuration du Backend (Django)
 Bash
@@ -56,17 +56,3 @@ npm install
 npm run dev
 Accédez à l'application sur : http://localhost:5173
 
-📂 Structure du Projet
-Plaintext
-├── backend/            # API Django REST
-│   ├── core/           # Configuration du projet
-│   ├── sales/          # Application de gestion des ventes (Modèles, Vues, Serializers)
-│   └── manage.py
-├── frontend/           # Application Vue.js
-│   ├── src/
-│   │   ├── api.ts      # Configuration Axios
-│   │   ├── stores/     # Pinia (Auth store)
-│   │   ├── views/      # Dashboard & Login
-│   │   └── types/      # Interfaces TypeScript
-│   └── tailwind.config.js
-└── README.md
