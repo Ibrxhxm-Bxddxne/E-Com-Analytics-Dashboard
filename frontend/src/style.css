@@ -1,0 +1,7 @@
+/* src/style.css */
+@import "tailwindcss"; /* Syntaxe simplifiée v4 */
+
+body {
+  @apply bg-slate-50 text-slate-900;
+  font-family: 'Inter', sans-serif;
+}
