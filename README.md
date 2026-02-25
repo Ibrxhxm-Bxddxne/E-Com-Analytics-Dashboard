@@ -1,6 +1,4 @@
-Voici un fichier README.md complet et professionnel, prêt à être copié-collé à la racine de ton projet. Il est structuré pour mettre en valeur tes compétences en Full-Stack Development.
-
-📊 E-Com Analytics Dashboard
+##📊 E-Com Analytics Dashboard
 Un tableau de bord analytique haute performance permettant de visualiser, gérer et analyser des données de ventes e-commerce. Ce projet transforme des données brutes issues de fichiers CSV en insights exploitables grâce à une interface moderne et réactive.
 
 ✨ Fonctionnalités
