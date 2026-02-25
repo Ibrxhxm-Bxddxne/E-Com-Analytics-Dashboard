@@ -1,4 +1,4 @@
-##📊 E-Com Analytics Dashboard
+📊 E-Com Analytics Dashboard
 Un tableau de bord analytique haute performance permettant de visualiser, gérer et analyser des données de ventes e-commerce. Ce projet transforme des données brutes issues de fichiers CSV en insights exploitables grâce à une interface moderne et réactive.
 
 ✨ Fonctionnalités
